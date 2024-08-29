@@ -9,3 +9,8 @@ AutoGen requires `Python>=3.8`. To run this notebook example, please install `py
 ```bash
 pip install pyautogen
 ```
+
+## Reference
+~~~
+https://github.com/microsoft/autogen/blob/main/notebook/agentchat_function_call_currency_calculator.ipynb
+~~~
