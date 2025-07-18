@@ -10,9 +10,9 @@ By fitting our problem into the sample notebooks referenced, we solve this probl
   
 ## Requirements
 
-AutoGen requires `Python>=3.8`. To run this notebook example, please install `pyautogen`:
+AutoGen requires `Python>=3.8`. To run this notebook example, please install `ag2`:
 ```bash
-pip install pyautogen
+pip install ag2
 ```
 
 ## Reference
